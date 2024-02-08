@@ -27,7 +27,7 @@ Before you begin, please notice that the app is available currently on Android o
 
 #### Direct download
 
-You can start using the Keshi app by downloading it from [the download page here](https://github.com/Umrahty-Engineering/Umrahty/releases/tag/0.9.66).
+You can start using the Umrahty app by downloading it from [the download page here](https://github.com/Umrahty-Engineering/Umrahty/releases/tag/0.9.66).
 
 #### Qr Code
 
