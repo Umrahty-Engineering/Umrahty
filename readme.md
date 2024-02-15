@@ -37,6 +37,6 @@ You can also scan this QR code to open the download page automatically.
 <br>
 
 <p align="center">
-<img src="https://github.com/Umrahty-Engineering/Umrahty/assets/25140579/c8248361-0ea5-4144-9c6c-1d8ed594cfcf" width="300" />
+<img src="https://github.com/Umrahty-Engineering/Umrahty/assets/25140579/46d7117b-3734-4a3f-ae5b-ddff08e87e45" width="300" />
 </p>
 
