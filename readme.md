@@ -4,6 +4,7 @@ Umrahty is a comprehensive mobile application designed to assist and enrich the 
 
 <br>
 
+
 <p align="center">
 <img src="./icon_rounded.png" width="200" />
 </p>
