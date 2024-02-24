@@ -28,7 +28,7 @@ Before you begin, please notice that the app is available currently on Android o
 
 #### Direct download
 
-You can start using the Umrahty app by downloading it from [the download page here](https://github.com/Umrahty-Engineering/Umrahty/releases/tag/0.9.66).
+You can start using the Umrahty app by downloading it from [the download page here]([https://github.com/Umrahty-Engineering/Umrahty/releases/tag/0.9.66](https://github.com/Umrahty-Engineering/Umrahty/releases/tag/v1.0.0)).
 
 #### Qr Code
 
@@ -37,6 +37,6 @@ You can also scan this QR code to open the download page automatically.
 <br>
 
 <p align="center">
-<img src="https://github.com/Umrahty-Engineering/Umrahty/assets/25140579/46d7117b-3734-4a3f-ae5b-ddff08e87e45" width="300" />
+<img src="https://github.com/Umrahty-Engineering/Umrahty/assets/25140579/31c1704c-e7f6-48b6-97d4-8b94bec9b37a" width="300" />
 </p>
 
